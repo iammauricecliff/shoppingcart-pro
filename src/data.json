@@ -1,0 +1,15 @@
+{
+    "products": [
+        {"_id": "pepsi", "name": "Pepsi", "image": "images/pepsi.jpg", "price": 10, "description": "about lorem ipsum litan deaus remlo sumip", "availableProducts": ["drinks"]},
+        {"_id": "fanta", "name": "Fanta", "image": "images/fanta.jpg", "price": 15, "description": "about lorem ipsum litan deaus remlo sumip", "availableProducts": ["drinks"]},
+        {"_id": "coke", "name": "Coke", "image": "images/coke.jpg", "price": 10, "description": "about lorem ipsum litan deaus remlo sumip", "availableProducts": ["drinks"]},
+        {"_id": "burger1", "name": "Crispy Hamburger", "image": "images/burger1.jpg", "price": 20, "description": "about lorem ipsum litan deaus remlo sumip", "availableProducts": ["burgers"]},
+        {"_id": "burger2", "name": "Heavy Meaty Burgers", "image": "images/burger2.jpg", "price": 10, "description": "about lorem ipsum litan deaus remlo sumip", "availableProducts": [ "burgers"]},
+        {"_id": "burger3", "name": "Burger Reloaded", "image": "images/burger3.jpg", "price": 30, "description": "about lorem ipsum litan deaus remlo sumip", "availableProducts": ["burgers"]},
+        {"_id": "breakfast1", "name": "BreakFast Galore", "image": "images/breakfast1.jpg", "price": 30, "description": "about lorem ipsum litan deaus remlo sumip", "availableProducts": ["breakfast"]},
+        {"_id": "breakfast2", "name": "Intercontinental Breakfast", "image": "images/breakfast2.jpg", "price": 40, "description": "about lorem ipsum litan deaus remlo sumip", "availableProducts": ["breakfast"]},
+        {"_id": "breakfast3", "name": "All in One BreakFast", "image": "images/breakfast3.jpg", "price": 50, "availableProducts": ["breakfast"]}
+    ]
+
+
+}
